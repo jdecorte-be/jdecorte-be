@@ -1,4 +1,4 @@
-# Hi, I’m John Decorte 👋
+### Hi, I'm John.
 
 I’m a back-end software engineer based in Toronto.
 
